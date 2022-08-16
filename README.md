@@ -5,7 +5,7 @@
 
 In the project directory, you can run:
 
-### To start:
+`To start:`
     npm i
     npm run star-dev
 
