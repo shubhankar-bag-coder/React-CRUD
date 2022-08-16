@@ -45,7 +45,7 @@ const Home = () => {
                     View
                   </Link>
                   <Link
-                    class="btn btn-outline-primary mr-2"
+                    class="btn btn-outline-primary m-2"
                     to={`/users/edit/${user.id}`}
                   >
                     Edit
