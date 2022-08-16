@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Shubho",
+      "username": "kamlesh",
+      "email": "bag@gmail.com",
+      "place": "Mumbai  ",
+      "id": 6
+    },
+    {
+      "name": "Shankar",
+      "username": "Ramdas",
+      "email": "ram@gmail.com",
+      "place": "Kolkata",
+      "id": 7
+    }
+  ]
+}
