@@ -1,18 +1,15 @@
+![Preview Image](https://i.ibb.co/xC8knQ4/Screenshot-89.png)
 
-![Preview Image](https://drive.google.com/file/d/1A-DZ_wBSmgyEMr6r-4Titcw6Lw3SAyE6/view?usp=sharing)
+
+<!-- ![Preview Image](https://drive.google.com/file/d/1A-DZ_wBSmgyEMr6r-4Titcw6Lw3SAyE6/view?usp=sharing)
 
 ![Preview Image](https://drive.google.com/file/d/1JEfbWjcEARzEhUlU5wFRpH_rPsr6F1pd/view?usp=sharing)
 
-![Preview Image](https://drive.google.com/file/d/1Ct8FWaOZ4m8mCwW_zkndKTvwE4g9g0Q6/view?usp=sharing)
+![Preview Image](https://drive.google.com/file/d/1Ct8FWaOZ4m8mCwW_zkndKTvwE4g9g0Q6/view?usp=sharing) -->
 
 ## Available Scripts
 
 In the project directory, you can run:
-
-## To start:
-    npm i
-    npm run star-dev
-
 
 ### `npm build`
 
@@ -40,3 +37,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 ### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+## To start:
+    npm i
+    npm run star-dev
+
+### Reference
+[Link](https://youtu.be/eJyZ7k6lWfE)
